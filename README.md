@@ -27,7 +27,7 @@
 
 ### Fall 2025-2026 Semester
 
-G1:
+G1: xxxx: link —— A,B,C
 
 G2: 
 
