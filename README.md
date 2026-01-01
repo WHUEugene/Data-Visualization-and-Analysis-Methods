@@ -11,7 +11,7 @@
 3. Visualize and anlysis a meaningfule datasets for research
 4. Write detialed README file and technicla report (mandatory)
 5. Provide a user-friendly website (optional)
-6. Contribution sheet(Contribution percentage for each members)
+6. Contribution sheet(Contribution percentage for each members, should be includer in GitHub Repository)
 
 > Potential Database: https://ngdc.cncb.ac.cn/databasecommons/
 > 
