@@ -32,7 +32,7 @@ G1:
 
 G2: Beijing AirQuality Visualization and Forecast Platform:https://github.com/1lizhongyuan/Group2-AirQuality-visualization-forecast —— 李忠远，史恒震，肖晟
 
-G3: 
+G3: 深港水环境耐药细菌的分布特征及其对理化因子的响应机制：https://github.com/kathy20031004-a11y/G3-Visualization-and-Analysis-Methods —— 朱慧芬，程淋，孔子希
 
 G4: 
 
