@@ -1,4 +1,4 @@
-## PKU EMBL | Data Visualization and Analysis Methods
+<img width="848" height="255" alt="image" src="https://github.com/user-attachments/assets/c24aa3e0-2657-415b-9c34-e1f3138f2610" />## PKU EMBL | Data Visualization and Analysis Methods
 
 ## 📣 News
 
@@ -60,7 +60,7 @@ G15:
 
 G16: 
 
-G17: 
+G17: Chinese Nationnal Geographic Products: https://github.com/JinQiangShi/Chinese-Nationnal-Geographic-Products —— (哈深) 石金强、宋帅臻
 
 G18: 识别、量化与比较交通边界对即时配送的阻碍效应——以北京市为例：https://github.com/yundouzi/Group18--Transportation-Boundaries-and-On-Time-Delivery —— (哈深）范思琪、陈妮、徐静雯、王骞若
 
