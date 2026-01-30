@@ -28,7 +28,7 @@
 
 ### Fall 2025-2026 Semester
 
-G1: Sweden Biodiversity and Climate Information Facility Interactive Visualization Platform: Sweden Biodiversity and Climate Information Facility Interactive Visualization Platform —— 姜肇瑞, 徐子洋, 程梓雄, 范竞元
+G1: Sweden Biodiversity and Climate Information Facility Interactive Visualization Platform: https://github.com/zhaorui-bi/DVAM-Group-1-Final-Project —— 姜肇瑞, 徐子洋, 程梓雄, 范竞元
 
 G2: Beijing AirQuality Visualization and Forecast Platform:https://github.com/1lizhongyuan/Group2-AirQuality-visualization-forecast —— 李忠远，史恒震，肖晟
 
